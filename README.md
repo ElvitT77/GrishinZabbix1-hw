@@ -84,3 +84,13 @@
 5) + добавление IP в zabbix_agentd.conf
 
 
+Дополнение:
+
+Метрики поступающие от агнета, что установлен на хост с сервером:
+
+<img width="1840" height="1122" alt="изображение" src="https://github.com/user-attachments/assets/0e897a75-94a4-43d3-ac0b-db04792f8b5f" />
+
+Детально, метрика available memory:
+
+<img width="1850" height="778" alt="изображение" src="https://github.com/user-attachments/assets/f868c881-daa1-4214-bd22-85c203398224" />
+
